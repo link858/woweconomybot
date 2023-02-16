@@ -69,6 +69,7 @@
 **A basic economy bot that pulls the average dps percentiles from each player in a report and adds that to their balance**
 
 Create a shop with items for players to buy with their parse points
+
 It isnt really finished and there is some commented code and commands that dont work correctly but it can still be used for its general purpose
 ## USER COMMANDS
 **$shop**
@@ -135,6 +136,7 @@ It isnt really finished and there is some commented code and commands that dont 
 
 ### Prerequisites
 **NODEJS**
+
 First and foremost you obviously need NodeJS.
 
 * [Nodejs.org](https://nodejs.org/)
